@@ -1,8 +1,5 @@
-import tkinter as tk
 import nltk
 import random
-from nltk.corpus import words, brown
-import nltk
 from nltk.corpus import words
 
 # nltk.download('words')
